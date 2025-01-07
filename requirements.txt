@@ -1,0 +1,6 @@
+moviepy
+edge-tts
+pillow
+numpy
+praw
+pandas
